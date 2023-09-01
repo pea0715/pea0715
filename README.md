@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pablo Espinosa Arias</h1>
-<h3 align="center">A passionate frontend developer from colombia</h3>
+<h1>Hi 👋, I'm Pablo Espinosa Arias</h1>
+<h3>A passionate frontend developer from colombia</h3>
 
 - 🔭 I’m currently **studying Systems Engineering**
 
